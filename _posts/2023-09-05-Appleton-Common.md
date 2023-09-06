@@ -19,12 +19,12 @@ Appleton Common sits adjacent to the river Thames and provides more technical ri
 
 ## Amenities
 
-[Appleton Community Shop]("https://www.appleton-eaton-pc.gov.uk/amenities/appleton-community-shop/") is a local volunteer-run iniative that provides a wide range of snacks, hot and cold drinks, and other goods. It is set back from the road with seating on grass in front of the shop and space for bike parking.
+[Appleton Community Shop](https://www.appleton-eaton-pc.gov.uk/amenities/appleton-community-shop/) is a local volunteer-run iniative that provides a wide range of snacks, hot and cold drinks, and other goods. It is set back from the road with seating on grass in front of the shop and space for bike parking.
 
 > The store is a short ride to the left when you reach the cross-roads after completing the Appleton Common section.
 {: .prompt-info }
 
-The [White Hart]("https://www.whitehart-fyfield.com") in Fyfield has a large outdoor seating area with space to lock up bikes away from the road.
+The [White Hart](https://www.whitehart-fyfield.com) in Fyfield has a large outdoor seating area with space to lock up bikes away from the road.
 
 ## Route Map
 
@@ -55,7 +55,7 @@ Leave the woods and join the road and ride alongside Tubney golf course and thro
 
 ![Thistle down approaching the common](/assets/2023-09-05-appleton-common/gravel-2.jpg){: width="400" height="300" }
 
-In Fyfield, ride past the [White Hart]("https://www.whitehart-fyfield.com") pub and take the right turn to Netherton on quiet back roads. Continue to the next junction then cross straight over to start the next off road section on a good gravel track that becomes rougher as the descent steepens to a field gate.
+In Fyfield, ride past the [White Hart](https://www.whitehart-fyfield.com) pub and take the right turn to Netherton on quiet back roads. Continue to the next junction then cross straight over to start the next off road section on a good gravel track that becomes rougher as the descent steepens to a field gate.
 
  Beyond the gate the track narrows and you ride bridleway field margins towards Appleton Common. There are often livestock in these fields and it's easy to miss the Second World War observation posts in the field on your left while watching the cattle on your right.
 

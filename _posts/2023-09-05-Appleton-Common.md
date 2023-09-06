@@ -6,10 +6,12 @@ tags: [30k, familyride]     # TAG names should always be lowercase
 ---
 # Introduction
 
-![Biography screenshot](/assets/bio.jpeg)
-_Ewan Buckingham_
+
 
 To reach Appleton Common from Oxford threads through the gravel tracks and BOATs above Brookes University's Hinksey Hill campus before threading through the narrow bridleways in Tubney Woods. 
+
+![Biography screenshot](/assets/bio.jpeg){: .left}
+_Ewan Buckingham_
 
 Appleton Common sits adjacent to the river Thames and provides more technical riding that is rooty and wet. There are a variety of lines to choose from before riding through Appleton Village and reversing your steps back home. 
 

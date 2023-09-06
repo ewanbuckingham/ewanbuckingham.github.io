@@ -41,7 +41,7 @@ social:
   email: ewan@ewanbuckingham.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/ewanbuckingham # change to your twitter homepage
+    - https://toot.bike/@ewanbuckingham
     - https://github.com/ewanbuckingham # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username

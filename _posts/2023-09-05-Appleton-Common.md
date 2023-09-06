@@ -4,9 +4,10 @@ date: 2023-09-05 13:16 +0100
 categories: [Cycling, Gravel]
 tags: [30k, familyride]     # TAG names should always be lowercase
 ---
-
-
 # Introduction
+
+![Biography screenshot](/assets/bio.jpeg)
+_Ewan Buckingham_
 
 To reach Appleton Common from Oxford threads through the gravel tracks and BOATs above Brookes University's Hinksey Hill campus before threading through the narrow bridleways in Tubney Woods. 
 
@@ -14,18 +15,21 @@ Appleton Common sits adjacent to the river Thames and provides more technical ri
 
 > =We can try out blockquotes here
 
-# Ammenities
+## Amenities
 
 [Appleton Community Shop]("https://www.appleton-eaton-pc.gov.uk/amenities/appleton-community-shop/") is a local volunteer-run iniative that provides a wide range of snacks, hot and cold drinks, and other goods. It is set back from the road with seating on grass in front of the shop and space for bike parking.
 ****
 > While not on directly on the route it is only a short ride to the left when you reach the cross-roads after completing the Appleton Common section.
 
-The [White Hart]("https://www.whitehart-fyfield.com") in Fyfield has a large outdoor seating area with space to lock up bikes away from the road.
+The [White Hart]("https://www.whitehart-fyfield.com") in Fyfield has a large outdoor seating area with space to lock up bikes away 
+from the road.
 
-# Route Map
+## Route Map
+
 <iframe src="https://ridewithgps.com/embeds?type=route&id=44332585&metricUnits=true&sampleGraph=true" style="width: 1px; width: 80%; height: 500px; border: none;" scrolling="no"></iframe>
 
 ## Starting
+
 Begin in North Hinksey on the West side of Oxford where a short climb uphill alongside Raleigh Park (sadly no bridleways) brings you to the Brookes University Hinksey Hill campus and the first gravel setion. 
 
 From here, ride on gravelled farm tracks through to Henwood taking care when the track narrows since there often large rocks hidden in the long grass.

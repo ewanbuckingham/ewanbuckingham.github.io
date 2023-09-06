@@ -4,5 +4,16 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# Hi There
+
+![Biography screenshot](/assets/bio.jpeg)
+
+I'm Ewan
+
+I'm interested in evidence-based product design and management through data mining and visualisation using Python and R. I'm currently working on a range of innovation projects for The Open University in the fields of:
+
+Augmented collaboration environments
+Adaptive and predictive analytics
+Learning behavioural insight
+User-centric service design
+If you have an interest in these areas, it would be great to hear from you.
